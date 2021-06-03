@@ -3,3 +3,7 @@ This is a project made to learn about C# and .NET following Traversy's Media vid
 
 ## Run the game
 To run the game you have to run ../NumberGuesser/Bin/Debug/NumberGuesser.exe
+
+## Tutorial Credits
+I followed this [Video](https://www.youtube.com/watch?v=GcFJjpMFJvI)
+Go check it out!
